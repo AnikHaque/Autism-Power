@@ -3,8 +3,6 @@ import './Header.css'
 const Header = () => {
     return (
        <div>
-        
-
         <div className="navigation">
             <div>
                 <h1 className="text-white">Autism Power</h1>

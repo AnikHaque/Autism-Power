@@ -6,5 +6,6 @@
 }
 .border-type{
     border-right: 1px dotted gray;
-    border-top: 1px dotted gray;
+    
+    margin-top: 70px;
 }
