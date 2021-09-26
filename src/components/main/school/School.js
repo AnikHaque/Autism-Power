@@ -1,7 +1,7 @@
 import React from 'react';
 import './School.css'
 const School = (props) => {
-    const {name,img,website,phone,student,address}=props.school
+    const {name,img,website,Established,student,address}=props.school
     return (
         <div>
           <div class="card-group h-100">
@@ -10,7 +10,7 @@ const School = (props) => {
     <div class="card-body">
       <h5 class="card-title"> {name}</h5>
       <p class="card-text"><b>Location:</b> {address}</p>
-      <p class="card-text"><b>Phone: </b>{phone}</p>
+      <p class="card-text"><b>Establishe In: </b>{Established}</p>
       <p class="card-text"><b>No Of Students: </b>{student}</p>
       <p class="card-text"><b>Website:</b> {website}</p>
     </div>
