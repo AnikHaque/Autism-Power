@@ -28,8 +28,10 @@ setCount(newCount)
    <Cart cart={count}></Cart>
     </div>
     <div class="col-9">
-    <div class="row row-cols-1 row-cols-md-3">
+    <h1 className="text-center text-primary fw-bold">List of Autism Schools in BD</h1>
 
+    <div class="row row-cols-1 row-cols-md-3">
+    
       {
           schools.map(school => <School school={school} handleClick={handleClick}></School>)
       }

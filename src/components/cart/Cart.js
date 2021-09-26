@@ -11,7 +11,7 @@ const Cart = (props) => {
     }
     return (
         <div>
-             <div class="card h-100 mt-5 bg-secondary w-75">
+             <div class="card h-100 cart-info bg-secondary w-75">
   <div class="card-body">
     <h5 class="card-title text-white text-center">Added:{props.cart.length}</h5>
     <p class="card-text text-white text-center"><b>Total Students:{total}</b></p>

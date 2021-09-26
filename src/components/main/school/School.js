@@ -4,7 +4,7 @@ const School = (props) => {
     const {name,img,website,phone,student,address}=props.school
     return (
         <div>
-<div class="card-group h-100">
+          <div class="card-group h-100">
   <div class="card  mt-3 border border-info bg-card">
     <img src={img} class="card-img-top img-fluid mt-3 mx-auto" alt="..."></img>
     <div class="card-body">

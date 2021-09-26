@@ -20,7 +20,7 @@ const Header = () => {
         <div >
              <div className="text-center header-details text-primary">
             <h1>We Support Talent of Autisms</h1>
-            <h3 className="fw-bold">Total Autism Childen Born in Bangladesh: 300</h3>
+            <h3 className="fw-bold">Total Autistic Childen Born in Bangladesh every year: 300</h3>
         </div>
         </div>
        

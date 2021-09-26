@@ -1,3 +1,8 @@
 .hi{
     border: 2 px solid gray;
 }
+.cart-info{
+    margin-top: 70px;
+    padding: 30px;
+    margin-left: 20px;
+}
