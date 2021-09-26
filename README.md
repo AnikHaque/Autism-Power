@@ -1,9 +1,9 @@
-#. Autism Power
+# Autism Power
 
-##. [live site link](https://autism-power.netlify.app/)
+## [live site link](https://autism-power.netlify.app/)
 
 
-##. Usage Purpose
+## Usage Purpose
 
 -This is a website of the Autistic Children's School.
 -It can be used to know the name,address,phone no, website and the number of students in the best autism schools in bd.
