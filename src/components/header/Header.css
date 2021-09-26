@@ -1,7 +1,16 @@
 .navigation{
-    background-color: black;
+    background-color:black;
     padding: 20px;
     display: flex;
+    padding-bottom: 20px;
+}
+.header-details{
+    color:aqua;
+    font-family: poppins;
+    padding-bottom: 20px;
+}
+.header-details h1{
+    font-size: 70px;
 }
 .navigation a{
     color:white;
@@ -9,6 +18,8 @@
     margin-right: 30px;
     font-size: 18px;
     font-weight: 500;
+    
+
 }
 .navigation-link{
     margin-left: 380px;

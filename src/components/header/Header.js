@@ -2,6 +2,9 @@ import React from 'react';
 import './Header.css'
 const Header = () => {
     return (
+       <div>
+        
+
         <div className="navigation">
             <div>
                 <h1 className="text-white">Autism Power</h1>
@@ -14,6 +17,15 @@ const Header = () => {
                 <a href="/home">CONTACT</a>
             </div>
         </div>
+        <div >
+             <div className="text-center header-details text-primary">
+            <h1>We Support Talent of Autisms</h1>
+            <h3 className="fw-bold">Total Autism Childen Born in Bangladesh: 300</h3>
+        </div>
+        </div>
+       
+        </div>
+        
     );
 };
 
