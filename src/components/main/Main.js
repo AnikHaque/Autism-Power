@@ -33,7 +33,10 @@ setCount(newCount)
     <div class="row row-cols-1 row-cols-md-3">
     
       {
-          schools.map(school => <School school={school} handleClick={handleClick}></School>)
+          schools.map(school => <School school={school} 
+            
+            key={school.key}
+            handleClick={handleClick}></School>)
       }
       </div>
     </div>
